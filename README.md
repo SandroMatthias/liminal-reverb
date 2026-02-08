@@ -16,6 +16,8 @@
 
 This project implements a digital reverb guitar pedal using the Daisy Seed embedded platform. It includes all the needed functionalities such as filters, utilities, FDN algorithms and theory guides. The project is developed as a presonal learning exercise to explore the fundamentals of real-time audio DSP on embedded hardware.
 
+https://github.com/user-attachments/assets/a3d1d6ec-14c1-4927-8a66-94da8daa63ae
+
 # Table of Contents
 
 - [Modules](#modules)
